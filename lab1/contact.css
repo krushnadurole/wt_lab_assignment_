@@ -1,0 +1,26 @@
+.title{
+    text-align: center;
+}
+a{
+    font-family: 'Roboto', sans-serif;
+}
+.navbar{
+    background-color: aliceblue;
+    height: 4em;
+    text-align: center;
+    vertical-align:middle;
+    padding-top: 2em;
+}
+
+h1,p{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+
+
+.navr{
+    margin-left: 2px;
+    margin-right: 2px;
+}

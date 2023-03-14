@@ -1,0 +1,44 @@
+p{
+    text-align: center;
+    background-color: bisque;
+}
+@media screen and (max-width:480px) {
+  .hello{
+    display:flex;
+    flex-direction: row;
+  }
+
+}
+
+.hello{
+   display: flex; 
+   flex-direction: row;
+}
+
+.title{
+    text-align: center;
+}
+a{
+    color: white;
+}
+.navr{
+    justify-content: space-evenly;
+}
+button{
+    size: 6em;
+    margin: 1cm;
+    width: 8em;
+}
+.clickhere{
+    color: black;
+}
+button{
+    text-align: center;
+    vertical-align: middle;
+    padding: 1cm;
+}
+#Booksavail{
+    vertical-align:middle;
+    background-color: rgb(164, 230, 230);
+}
+
